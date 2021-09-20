@@ -1,8 +1,8 @@
 # Flippy Kernel
 
-- Compiled OpenWrt kernel repository shared by Flippy. It can be directly referenced when compiling Actions on github.com. Please refer to [amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt) or [flippy-openwrt-actions](https://github.com/ophub/flippy-openwrt-actions) for the usage method.
+- Compiled OpenWrt kernel repository shared by Flippy. It can be directly referenced when compiling Actions on github.com. Commonly used in projects such as [amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt), [amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) and [flippy-openwrt-actions](https://github.com/ophub/flippy-openwrt-actions).
 
-- Flippy 分享的编译 OpenWrt 的内核存储库。在 github.com 的 Actions 编译时可以直接引用。使用方法详见 [amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt) 或 [flippy-openwrt-actions](https://github.com/ophub/flippy-openwrt-actions) 。
+- Flippy 分享的编译 OpenWrt 的内核存储库。在 github.com 的 Actions 编译时可以直接引用。在 [amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt)， [amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) 和 [flippy-openwrt-actions](https://github.com/ophub/flippy-openwrt-actions) 等项目中通用。
 
 ## Acknowledgments
 
